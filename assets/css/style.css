@@ -5,7 +5,7 @@ h1, .jumbotron {
 }
 
 .jumbotron {
-	background-image: url("/Users/davlio/Desktop/Code/TriviaGame/assets/images/2914.jpg");
+	background-image: url("../images/2914.jpg");
 }
 
 body {
